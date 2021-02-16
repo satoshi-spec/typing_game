@@ -1,0 +1,26 @@
+body {
+  font-size: 6em; 
+  text-align: center;
+}
+
+#count {
+  margin: 0;
+  font-weight: bold;
+  color: #888;
+}
+
+#wrap {
+  margin-top: 20px;
+  padding: 20px 10px;
+  background-color: #666;
+  font-weight: bold;
+  color: #fff;
+}
+span {
+  transition: all 300ms 0s ease;
+}
+
+.add-color {
+  font-size: 0.5em;
+  color: #666;
+}
